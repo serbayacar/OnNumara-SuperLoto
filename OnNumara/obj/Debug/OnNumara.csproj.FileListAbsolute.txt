@@ -1,0 +1,18 @@
+c:\users\serbay\documents\visual studio 2015\Projects\OnNumara\OnNumara\bin\Debug\OnNumara.exe.config
+c:\users\serbay\documents\visual studio 2015\Projects\OnNumara\OnNumara\bin\Debug\OnNumara.exe
+c:\users\serbay\documents\visual studio 2015\Projects\OnNumara\OnNumara\bin\Debug\OnNumara.pdb
+c:\users\serbay\documents\visual studio 2015\Projects\OnNumara\OnNumara\obj\Debug\OnNumara.csprojResolveAssemblyReference.cache
+c:\users\serbay\documents\visual studio 2015\Projects\OnNumara\OnNumara\obj\Debug\OnNumara.Form1.resources
+c:\users\serbay\documents\visual studio 2015\Projects\OnNumara\OnNumara\obj\Debug\OnNumara.Properties.Resources.resources
+c:\users\serbay\documents\visual studio 2015\Projects\OnNumara\OnNumara\obj\Debug\OnNumara.csproj.GenerateResource.Cache
+c:\users\serbay\documents\visual studio 2015\Projects\OnNumara\OnNumara\obj\Debug\OnNumara.exe
+c:\users\serbay\documents\visual studio 2015\Projects\OnNumara\OnNumara\obj\Debug\OnNumara.pdb
+C:\Users\Kali\OneDrive\Projeler\VS\OnNumara\OnNumara\bin\Debug\OnNumara.exe.config
+C:\Users\Kali\OneDrive\Projeler\VS\OnNumara\OnNumara\obj\Debug\OnNumara.exe
+C:\Users\Kali\OneDrive\Projeler\VS\OnNumara\OnNumara\obj\Debug\OnNumara.pdb
+C:\Users\Kali\OneDrive\Projeler\VS\OnNumara\OnNumara\bin\Debug\OnNumara.exe
+C:\Users\Kali\OneDrive\Projeler\VS\OnNumara\OnNumara\bin\Debug\OnNumara.pdb
+C:\Users\Kali\OneDrive\Projeler\VS\OnNumara\OnNumara\obj\Debug\OnNumara.csprojResolveAssemblyReference.cache
+C:\Users\Kali\OneDrive\Projeler\VS\OnNumara\OnNumara\obj\Debug\OnNumara.Form1.resources
+C:\Users\Kali\OneDrive\Projeler\VS\OnNumara\OnNumara\obj\Debug\OnNumara.Properties.Resources.resources
+C:\Users\Kali\OneDrive\Projeler\VS\OnNumara\OnNumara\obj\Debug\OnNumara.csproj.GenerateResource.Cache
